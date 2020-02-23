@@ -1,0 +1,9 @@
+C:\Users\Austin\Desktop\CIT\Mission 3\Module 1\Project_FinchControl.MenuStarter-master\Project_FinchControl\bin\Debug\Project_FinchControl.exe.config
+C:\Users\Austin\Desktop\CIT\Mission 3\Module 1\Project_FinchControl.MenuStarter-master\Project_FinchControl\bin\Debug\Project_FinchControl.exe
+C:\Users\Austin\Desktop\CIT\Mission 3\Module 1\Project_FinchControl.MenuStarter-master\Project_FinchControl\bin\Debug\Project_FinchControl.pdb
+C:\Users\Austin\Desktop\CIT\Mission 3\Module 1\Project_FinchControl.MenuStarter-master\Project_FinchControl\bin\Debug\FinchAPI.dll
+C:\Users\Austin\Desktop\CIT\Mission 3\Module 1\Project_FinchControl.MenuStarter-master\Project_FinchControl\bin\Debug\HidSharp.dll
+C:\Users\Austin\Desktop\CIT\Mission 3\Module 1\Project_FinchControl.MenuStarter-master\Project_FinchControl\obj\Debug\Project_FinchControl.csprojAssemblyReference.cache
+C:\Users\Austin\Desktop\CIT\Mission 3\Module 1\Project_FinchControl.MenuStarter-master\Project_FinchControl\obj\Debug\Project_FinchControl.csproj.CopyComplete
+C:\Users\Austin\Desktop\CIT\Mission 3\Module 1\Project_FinchControl.MenuStarter-master\Project_FinchControl\obj\Debug\Project_FinchControl.exe
+C:\Users\Austin\Desktop\CIT\Mission 3\Module 1\Project_FinchControl.MenuStarter-master\Project_FinchControl\obj\Debug\Project_FinchControl.pdb
